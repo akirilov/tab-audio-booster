@@ -2,6 +2,8 @@
 
 A Chrome extension that boosts tab audio above 100% using the Web Audio API.
 
+> **AI Use Disclaimer**: This project was generated using [Claude Code](https://claude.ai/claude-code) as a proof-of-concept. It is provided as-is for demonstration and educational purposes.
+
 ## Features
 
 - Amplify audio from 100% to 500% on any tab
